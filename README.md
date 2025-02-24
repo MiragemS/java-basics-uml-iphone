@@ -1,5 +1,7 @@
 # Java Native Cloud - Bradesco + Dio
 
+Exercício com abertura para grande melhoria e otimização. Pode-se considerar uma entrega parcial, apenas com o desenvolvimento de interfaces e métodos básicos. 
+
 ``` mermaid
 
 ---
