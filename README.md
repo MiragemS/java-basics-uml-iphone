@@ -12,9 +12,8 @@ classDiagram
 
     class Iphone{
         -status
-        +ligar()void
+        +onOff()void
         +desbloquear()void
-        +desligar()void
     }
 
     class ReprodutorMusical {
