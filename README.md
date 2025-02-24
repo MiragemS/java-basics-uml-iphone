@@ -39,3 +39,5 @@ classDiagram
 
 
 ```
+
+Eu poderia fazer com qe os métodos das interfaces fossem defaults, visto que só há uma única classe extendendo-os. Mas num cenário fictício em que haveriam outras classes extendendo, manterei os métodos sem implementação, passando o dever para o Iphone.
