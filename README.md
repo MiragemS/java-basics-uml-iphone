@@ -12,6 +12,7 @@ classDiagram
 
     class Iphone{
         -status
+        -screen
         +onOff()void
         +desbloquear()void
     }
