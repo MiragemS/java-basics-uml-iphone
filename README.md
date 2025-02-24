@@ -1,6 +1,6 @@
 # Java Native Cloud - Bradesco + Dio
 
-Exercício com abertura para grande melhoria e otimização. Pode-se considerar uma entrega parcial, apenas com o desenvolvimento de interfaces e métodos básicos. 
+Exercício com abertura para grande melhoria e otimização. Pode-se considerar uma entrega parcial, apenas com o desenvolvimento de interfaces e métodos básicos. Em suma, planejo fazer melhorias recorrentes, possivelmente começando com interações imersivas de ligar celular, inserir senha (informada em um construtor) e adendos.
 
 ``` mermaid
 
