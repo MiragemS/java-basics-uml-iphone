@@ -13,10 +13,7 @@ classDiagram
     ExplorarInternet <|-- Iphone
 
     class Iphone{
-        -status
-        -screen
-        +onOff()void
-        +desbloquear()void
+        
     }
 
     class ReprodutorMusical {
